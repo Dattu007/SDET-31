@@ -29,6 +29,10 @@ public class CreateOrganizationTest {
 		System.out.println("Doddavnu ninu first ninde");
 		System.out.println("First madko");
 		
+		System.out.println("Maga Roja goskara ond hudga hudku");
+		
+		System.out.println("edscknnes");
+		
 		
 		
 		
