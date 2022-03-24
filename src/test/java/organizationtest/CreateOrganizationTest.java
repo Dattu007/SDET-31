@@ -25,6 +25,8 @@ public class CreateOrganizationTest {
 		
 		System.out.println("Maga Roja goskara ond hudga hudku");
 		
+		System.out.println("edscknnes");
+		
 		
 		
 		
