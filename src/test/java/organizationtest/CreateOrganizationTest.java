@@ -11,6 +11,16 @@ public class CreateOrganizationTest {
 		
 		System.out.println("User 2 is created Organization");
 		
+		System.out.println("Maga Bega Maduve Madko Nodok Agtilla");
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		
