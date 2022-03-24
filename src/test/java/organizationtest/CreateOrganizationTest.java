@@ -8,6 +8,38 @@ public class CreateOrganizationTest {
 	public void createOrg() {
 		
 		System.out.println("User 1 is created Organization");
+		
+		System.out.println("User 2 is created Organization");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
-	
 }
