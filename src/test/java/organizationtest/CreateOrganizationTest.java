@@ -20,6 +20,9 @@ public class CreateOrganizationTest {
 		System.out.println("updated pull aytha nodko");
 		
 		
+		System.out.println("Doddavnu ninu first ninde");
+		System.out.println("First madko");
+		
 		
 		
 		
