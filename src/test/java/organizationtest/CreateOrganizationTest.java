@@ -10,7 +10,7 @@ public class CreateOrganizationTest {
 		System.out.println("User 1 is created Organization");
 		
 		System.out.println("User 2 is created Organization");
-		
+		 System.out.println(" User vijay is created organization");
 		
 		
 		
